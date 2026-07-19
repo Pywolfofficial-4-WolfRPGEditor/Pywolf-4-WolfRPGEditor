@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="picture">
+    <file>PywolfLancher.png</file>
+    <file>check.svg</file>
+    <file>x.svg</file>
+    <file>circle-fill(not_installed).svg</file>
+    <file>circle-fill(offline).svg</file>
+    <file>circle-fill(online).svg</file>
+  </qresource>
+  <qresource prefix="music">
+    <file>3E96BC53EA50C3C504420FEE8315480A116B078EC19C52771128D254F575FA9A.wav</file>
+  </qresource>
+</RCC>

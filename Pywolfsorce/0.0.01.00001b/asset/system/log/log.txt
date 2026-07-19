@@ -1,0 +1,6 @@
+Ja-jp
+このフォルダはPywolfのログが格納されています。Pywolfで管理しているので中のファイルを含め絶対に消去しないでください。(バックアップを定期的に取ることを推奨します。)
+En-us
+This folder contains Pywolf logs. Since Pywolf manages these files, please do not delete them under any circumstances, including the files inside. (We recommend taking regular backups.)
+En-uk
+This folder contains Pywolf’s logs. As it is managed by Pywolf, please do not delete it or any of the files it contains under any circumstances. (We recommend that you take regular backups.)
