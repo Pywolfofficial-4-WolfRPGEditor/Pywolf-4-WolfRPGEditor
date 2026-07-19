@@ -1,0 +1,10 @@
+﻿{"name":"マジックディスティニーワールド",
+"gameversion":"1.00",
+"savemaxslot":"100",
+"Gameexcutetableversion":"2.*.*",
+"managed":"True",
+"uuid":"E8B661F4-D6F1-4D35-A97E-304A5A29DA82",
+"permission":{"network":true,"filesystem":true},
+"Prerequisite runtime":["PywolfPlaySDK_full"],
+"Recommended runtime":[],
+"Genre":"RPG"}

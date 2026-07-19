@@ -1,0 +1,10 @@
+﻿{"name":"カービィクエスト ～暗黒の物々～",
+"gameversion":"1.25",
+"savemaxslot":"5",
+"Gameexcutetableversion":"2.*.*",
+"managed":"False",
+"uuid":"1DB66611-5F20-6206-6AFF-C722A1AB653D",
+"permission":{},
+"Prerequisite runtime":[],
+"Recommended runtime":[],
+"Genre":"RPG"}

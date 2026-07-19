@@ -1,0 +1,10 @@
+﻿{"name":"カービィクエスト",
+"gameversion":"1.16",
+"savemaxslot":"1",
+"Gameexcutetableversion":"1.0.*",
+"managed":"False",
+"uuid":"E8B661F4-D6F1-4D35-A97E-304A5A29DA82",
+"permission":{},
+"Prerequisite runtime":[],
+"Recommended runtime":[],
+"Genre":"RPG"}

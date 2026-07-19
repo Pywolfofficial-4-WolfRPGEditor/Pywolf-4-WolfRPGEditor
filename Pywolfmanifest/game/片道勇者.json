@@ -1,0 +1,10 @@
+{"name":"片道勇者",
+"gameversion":"1.25",
+"savemaxslot":"500",
+"Gameexcutetableversion":"2.*.*",
+"managed":"False",
+"uuid":"DBAD3C7A-56B2-FABE-AED7-722F5D1AC0E4",
+"permission":{},
+"Prerequisite runtime":[],
+"Recommended runtime":["onewayhero_replay"],
+"Genre":"RPG"}

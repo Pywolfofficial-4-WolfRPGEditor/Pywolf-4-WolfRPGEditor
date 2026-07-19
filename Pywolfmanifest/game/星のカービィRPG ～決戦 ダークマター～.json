@@ -1,0 +1,10 @@
+﻿{"name":"星のカービィRPG ～決戦 ダークマター～",
+"gameversion":"1.01",
+"savemaxslot":"15",
+"Gameexcutetableversion":"2.*.*",
+"managed":"False",
+"uuid":"826171B2-3CE2-030D-3475-7F444D6269E3",
+"permission":{},
+"Prerequisite runtime":[],
+"Recommended runtime":[],
+"Genre":"RPG"}
