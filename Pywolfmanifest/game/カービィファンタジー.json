@@ -1,0 +1,10 @@
+{"name":"カービィファンタジー",
+"gameversion":"1.25",
+"savemaxslot":"15",
+"Gameexcutetableversion":"2.*.*",
+"managed":"False",
+"uuid":"25EB1701-EA13-AA23-DB42-D3E0D9CD4131",
+"permission":{},
+"Prerequisite runtime":[],
+"Recommended runtime":[],
+"Genre":"RPG"}
