@@ -1,0 +1,1 @@
+[https://github.com/Pywolfofficial-4-WolfRPGEditor/Pywolf-4-WolfRPGEditor/blob/main/readme(Ja-jp).txt](https://github.com/Pywolfofficial-4-WolfRPGEditor/Pywolf-4-WolfRPGEditor/blob/main/readme%28Ja-jp%29.txt)
