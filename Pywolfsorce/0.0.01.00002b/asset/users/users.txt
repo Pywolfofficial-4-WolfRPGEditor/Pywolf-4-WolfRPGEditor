@@ -1,0 +1,9 @@
+Ja-JP
+このフォルダはPywolfがユーザーを管理するためのフォルダです。
+Pywolfメインシステムが管理しているので絶対に消去しないでください。
+En-US
+This folder is used by Pywolf to manage users.
+Do not delete it under any circumstances, as it is managed by the Pywolf main system.
+En-UK
+This folder is used by Pywolf to manage users.
+As it is managed by the Pywolf main system, please do not delete it under any circumstances.

@@ -1,0 +1,9 @@
+Ja-jp
+このフォルダはPywolfが他のプロダクトおよびPywolfではないアプリケーションと連動する時に使用するデータを格納しています。
+Pywolfメインシステムが管理しているので絶対に消去しないでください。
+En-US
+This folder contains data that Pywolf uses when integrating with other products and non-Pywolf applications.
+Do not delete this folder under any circumstances, as it is managed by the Pywolf main system.
+En-Uk
+This folder contains data used by Pywolf when it integrates with other products and non-Pywolf applications.
+As it is managed by the Pywolf main system, please do not delete it under any circumstances.
